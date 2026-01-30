@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Wordle Solver",
-  description: "App pour tricher au wordle",
+  title: "Pommsle",
+  description: "Wordle but pomme like",
 };
 
 export default function RootLayout({
